@@ -126,7 +126,7 @@ plt.xlabel("Sentiment")
 plt.ylabel("Tweet Count")
 
 # Save to Downloads (adjust path if needed)
-desktop_path = "/mnt/c/Users/Sreekanth/Downloads"
+desktop_path = "/mnt/c/Users/Bharadwaj/Downloads"
 plt.savefig(os.path.join(desktop_path, 'sentiment_bar.png'))
 plt.show()
 
